@@ -1,0 +1,9 @@
+trying to find c++ equivalant to python getattr().
+
+https://stackoverflow.com/questions/10400874/c-equivalent-of-python-getattr
+Link above comments says the concept is called introspection/reflection.
+
+
+https://stackoverflow.com/questions/41453/how-can-i-add-reflection-to-a-c-application
+Link above shows how to prepare the preprocess for c/cpp app to using this conecpt
+

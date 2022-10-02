@@ -21,7 +21,6 @@ class TestCaseTest(TestCase):
 
 TestCaseTest("testRunning").run()
 
-
 test= WasRun("testMethod")
 print(test.wasRun)
 test.run()
