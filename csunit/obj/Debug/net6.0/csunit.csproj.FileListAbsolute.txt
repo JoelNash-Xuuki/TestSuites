@@ -1,0 +1,15 @@
+/home/joel/TestSuites/csunit/bin/Debug/net6.0/csunit
+/home/joel/TestSuites/csunit/bin/Debug/net6.0/csunit.deps.json
+/home/joel/TestSuites/csunit/bin/Debug/net6.0/csunit.runtimeconfig.json
+/home/joel/TestSuites/csunit/bin/Debug/net6.0/csunit.dll
+/home/joel/TestSuites/csunit/bin/Debug/net6.0/ref/csunit.dll
+/home/joel/TestSuites/csunit/bin/Debug/net6.0/csunit.pdb
+/home/joel/TestSuites/csunit/obj/Debug/net6.0/csunit.csproj.AssemblyReference.cache
+/home/joel/TestSuites/csunit/obj/Debug/net6.0/csunit.GeneratedMSBuildEditorConfig.editorconfig
+/home/joel/TestSuites/csunit/obj/Debug/net6.0/csunit.AssemblyInfoInputs.cache
+/home/joel/TestSuites/csunit/obj/Debug/net6.0/csunit.AssemblyInfo.cs
+/home/joel/TestSuites/csunit/obj/Debug/net6.0/csunit.csproj.CoreCompileInputs.cache
+/home/joel/TestSuites/csunit/obj/Debug/net6.0/csunit.dll
+/home/joel/TestSuites/csunit/obj/Debug/net6.0/ref/csunit.dll
+/home/joel/TestSuites/csunit/obj/Debug/net6.0/csunit.pdb
+/home/joel/TestSuites/csunit/obj/Debug/net6.0/csunit.genruntimeconfig.cache

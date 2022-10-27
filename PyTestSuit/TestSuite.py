@@ -13,6 +13,11 @@ class WasRun(TestCase):
     self.wasRun= 1
 
 class TestCaseTest(TestCase):
+  def testSetUp(self):
+	test= WasRun("testMethod")
+    assert(not test.wasRun)
+    test.run()
+
   def testRunning(self):
     test= WasRun("testMethod")
     assert(not test.wasRun)

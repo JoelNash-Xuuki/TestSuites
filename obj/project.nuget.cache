@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AdLNTSM0JanuOdZMjGLEYXMcMXlM/8ldj++74fM5TZalcD2FEn+C6Dq/gHqAFV7LM7ddD7hXLZI12Q6RdV+BSw==",
+  "success": true,
+  "projectFilePath": "/home/joel/TestSuites/TestSuites.csproj",
+  "expectedPackageFiles": [
+    "/home/joel/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
